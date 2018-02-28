@@ -4,4 +4,4 @@ Hra Block-Dodge
 
 Pohyb: A, D alebo šípky
 
-Vypnutie: Alt + f4
+Vypnutie: Alt + F4
